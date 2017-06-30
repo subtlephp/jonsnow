@@ -1,0 +1,19 @@
+{
+  "name": "subtlephp/jonsnow",
+  "description": "PhpRedis extension methods stub for PhpStorm",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Frost Wong",
+      "email": "frostwong@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  }
+}
